@@ -13,7 +13,6 @@ const Navbar = () => {
     "home",
     "about",
     "books",
-    "pricing",
     "booking",
     "contact",
   ];

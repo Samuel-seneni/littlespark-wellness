@@ -33,7 +33,7 @@ Package: ${form.package}
 Message: ${form.message}
     `;
 
-    const url = `https://wa.me/254700000000?text=${encodeURIComponent(text)}`;
+    const url = `https://wa.me/254706170473?text=${encodeURIComponent(text)}`;
     window.open(url, "_blank");
   };
 

@@ -54,26 +54,7 @@ const Hero = () => {
               wellness resources designed for meaningful growth.
             </p>
 
-            {/* BUTTONS */}
-            <div className="mt-8 flex flex-wrap gap-4">
-
-              <a
-                href="#books"
-                className="px-7 py-3 rounded-full bg-purple-600 text-white font-semibold hover:bg-purple-700 transition duration-300 shadow-lg"
-              >
-                Explore Books
-              </a>
-
-              <a
-                href="#booking"
-                className="px-7 py-3 rounded-full border-2 border-purple-600 text-purple-600 font-semibold hover:bg-purple-50 transition duration-300"
-              >
-                Book Consultation
-              </a>
-
-            </div>
-
-          </motion.div>
+           </motion.div>
 
           {/* RIGHT SIDE */}
           <motion.div

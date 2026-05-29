@@ -1,7 +1,6 @@
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Services from "../components/Services";
-import Pricing from "../components/Pricing";
 import BookingWidget from "../components/BookingWidget";
 import Contact from "../components/Contact";
 
@@ -22,11 +21,6 @@ const Home = () => {
       {/* SERVICES / BOOKS SECTION */}
       <section id="services" className="scroll-mt-20 py-16 bg-gray-50">
         <Services />
-      </section>
-
-      {/* PRICING / PACKAGES */}
-      <section id="pricing" className="scroll-mt-20 py-16 bg-white">
-        <Pricing />
       </section>
 
       {/* BOOKING SECTION */}

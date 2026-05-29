@@ -69,7 +69,7 @@ const Contact = () => {
               <Phone className="text-orange-500" size={28} />
               <div>
                 <h3 className="font-bold text-gray-900">Phone</h3>
-                <p className="text-gray-600">+254 700 000 000</p>
+                <p className="text-gray-600">+254 706 170 473</p>
               </div>
             </div>
 
@@ -84,7 +84,7 @@ const Contact = () => {
 
             {/* WHATSAPP CTA */}
             <a
-              href="https://wa.me/254700000000"
+              href="https://wa.me/254706170473"
               target="_blank"
               className="flex items-center justify-center gap-3 bg-gradient-to-r from-green-500 to-green-600 text-white py-4 rounded-full font-semibold hover:opacity-90 transition shadow-lg"
             >
