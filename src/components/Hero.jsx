@@ -48,11 +48,11 @@ const Hero = () => {
             </h1>
 
             {/* DESCRIPTION */}
-            <p className="mt-6 text-lg text-gray-600 leading-relaxed max-w-xl">
-              Empower learners and educators with engaging Social & Emotional
-              Learning books, emotional intelligence activities, and classroom
-              wellness resources designed for meaningful growth.
-            </p>
+          <p className="mt-6 text-base sm:text-lg text-gray-600 leading-relaxed w-full max-w-full sm:max-w-xl px-4 sm:px-0 break-words">
+            Empower learners and educators with engaging Social & Emotional
+            Learning books, emotional intelligence activities, and classroom
+            wellness resources designed for meaningful growth.
+          </p>
 
            </motion.div>
 

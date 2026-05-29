@@ -115,7 +115,7 @@ const Navbar = () => {
               <h1 className="text-sm sm:text-lg font-bold">
                 <span className="text-black">LittleSpark </span>
                 <span className="text-purple-600">
-                  Wellness Book
+                  Wellness Hub
                 </span>
               </h1>
 

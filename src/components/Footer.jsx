@@ -33,7 +33,7 @@ const Footer = () => {
 
             <h2 className="text-2xl font-bold text-white">
               LittleSpark{" "}
-              <span className="text-purple-400">Wellness Book</span>
+              <span className="text-purple-400">Wellness Hub</span>
             </h2>
 
             <p className="mt-4 text-sm text-gray-400 leading-relaxed">
@@ -60,7 +60,7 @@ const Footer = () => {
 
               {/* WHATSAPP */}
               <a
-                href="https://wa.me/254700000000"
+                href="https://wa.me/254706170473"
                 className="p-3 bg-white/10 rounded-full hover:bg-green-500 hover:scale-110 transition-all duration-300"
               >
                 <FaWhatsapp size={18} />
@@ -108,17 +108,17 @@ const Footer = () => {
             </p>
 
             <a
-              href="tel:+254700000000"
+              href="tel:+254706170473"
               className="text-sm text-gray-400 mt-3 block hover:text-purple-400 transition"
             >
-              📞 +254 700 000 000
+              📞 +254 706 170 473
             </a>
 
             <a
-              href="mailto:support@littlesparkbooks.com"
+              href="mailto:wambuikirugi19@gmail.com"
               className="text-sm text-gray-400 mt-3 block hover:text-purple-400 transition break-words"
             >
-              📧 support@littlesparkbooks.com
+              📧 wambuikirugi19@gmail.com
             </a>
 
             {/* CTA BUTTON */}
@@ -140,7 +140,7 @@ const Footer = () => {
           <div className="flex flex-col sm:flex-row justify-between items-center text-xs sm:text-sm text-gray-500 gap-3">
 
             <p>
-              © {new Date().getFullYear()} LittleSpark Wellness Book. All rights reserved.
+              © {new Date().getFullYear()} LittleSpark Wellness Hub. All rights reserved.
             </p>
 
             <p className="text-purple-400 font-medium">
