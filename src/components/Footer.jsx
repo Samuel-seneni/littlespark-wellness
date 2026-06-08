@@ -118,7 +118,7 @@ const Footer = () => {
               href="mailto:wambuikirugi19@gmail.com"
               className="text-sm text-gray-400 mt-3 block hover:text-purple-400 transition break-words"
             >
-              📧 wambuikirugi19@gmail.com
+              📧 littlesparkwellnesshub@gmail.com
             </a>
 
             {/* CTA BUTTON */}
