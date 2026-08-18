@@ -33,7 +33,7 @@ const About = () => {
             <div className="inline-flex items-center px-5 py-2 border-2 border-purple-500 rounded-full mb-6 bg-purple-50">
 
               <span className="text-purple-600 font-semibold text-sm">
-                ✦ About LittleSpark Wellness Book
+                ✦ About LittleSpark Wellness 
               </span>
 
             </div>
@@ -51,7 +51,7 @@ const About = () => {
 
             {/* DESCRIPTION */}
             <p className="mt-6 text-lg text-gray-600 leading-relaxed">
-              LittleSpark Wellness Book provides engaging Social & Emotional
+              LittleSpark Wellness provides engaging Social & Emotional
               Learning resources that support emotional growth, resilience,
               mindfulness, and positive classroom experiences for learners and
               educators.
